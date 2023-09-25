@@ -1,22 +1,23 @@
 # Apology and Update Regarding the Delay of "To-Do Beast List in React" Product Release
 
 ![https://github.com/Mochibunn/ToDoBeastList/raw/main/res/img/codebeasts.png](https://github.com/Mochibunn/ToDoBeastList/raw/main/res/img/codebeasts.png)
-
-Code Beasts
-308 Negra Arroyo Lane,
-Albuquerque, New Mexico 87104
-**[hi@mochibun.me](mailto:hi@mochibun.me)**
-(420)-555-0352
-**[http://mochibun.me/](http://mochibun.me/)**
-
+</br>
+Code Beasts</br>
+308 Negra Arroyo Lane,</br>
+Albuquerque, New Mexico</br>
+87104</br>
+**[hi@mochibun.me](mailto:hi@mochibun.me)**</br>
+(420)-555-0352</br>
+**[http://mochibun.me/](http://mochibun.me/)**</br>
+</br>
+</br>
 September 25, 2023
-
+</br>
 ### **FOR IMMEDIATE RELEASE**
-
 ---
-
-Dear Valued Customers, Partners, and Supporters,
-
+Dear Valued Customers, Partners, and Supporters,</br>
+</br>
+</br>
 We hope this message finds you well. We want to begin by expressing our sincerest gratitude for your unwavering support and enthusiasm for our upcoming product, the To-Do Beast List in React. Your trust in Code Beasts has been instrumental in our journey, and we deeply appreciate it.
 
 It is with a heavy heart that we must announce a delay in the release of our highly anticipated To-Do Beast List in React product. We understand the excitement and anticipation that have been building around this project, and we share your enthusiasm. Therefore, we want to provide you with a transparent and comprehensive explanation of the reasons behind this necessary delay.
@@ -35,14 +36,16 @@ Once again, we extend our deepest apologies for any inconvenience this delay may
 
 Should you have any questions or require further information, please do not hesitate to contact our dedicated customer support team at **[hi@mochibun.me](mailto:hi@mochibun.me)**.
 
-Thank you for your understanding, patience, and continued support as we work diligently to bring the To-Do Beast List in React to life.
-
-Warm regards,
-
-Mochi
-CEO, Code Beasts
-**[hi@mochibun.me](mailto:hi@mochibun.me)**
-(420)-555-0352
-**[http://mochibun.me/](http://mochibun.me/)**
-
-[Optional Note to Editors: If you are a member of the media and have questions or would like additional information, please contact Dalton T. at **[hi@mochibun.me](mailto:hi@mochibun.me)** or (143)-229-3655.]
+Thank you for your understanding, patience, and continued support as we work diligently to bring the To-Do Beast List in React to life.</br>
+</br>
+</br>
+Warm regards,</br>
+Mochi</br>
+</br>
+CEO, Code Beasts</br>
+**[hi@mochibun.me](mailto:hi@mochibun.me)**</br>
+(420)-555-0352</br>
+**[http://mochibun.me/](http://mochibun.me/)**</br>
+</br>
+</br>
+[Optional Note to Editors: If you are a member of the media and have questions or would like additional information, please contact Dalton T. at **[hi@mochibun.me](mailto:hi@mochibun.me)** or (143)-229-3655.]</br>
